@@ -51,7 +51,3 @@ else
 	echo -e "\033[31m please enter start|stop|status \033[0m"
 fi
 
-
-
-
-
